@@ -6,7 +6,7 @@ It is often helpful to set up a LAN for networking purposes. However, we may not
 1. The LAN may need to be portable ( uproot and deploy )
 2. May not have access to WAN ( new environment )
 
-A improvised WAN can be used. OpenWRT allows the following configurations ( and more ):
+A improvised WAN can be used. OpenWRT is Open Source router software offering following configurations of interest:
 1. Dual Modem Routers: 1x uplink to wifi, 1x Access Point
 2. Router with USB Port: 1x Usb Tethering from Phone to LAN
 
