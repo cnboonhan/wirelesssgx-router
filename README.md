@@ -1,5 +1,9 @@
 # wirelesssgx-router
 
+## Generate Credentials
+1. goto: `https://eservice.imda.gov.sg/wirelessSGx/`
+2. Select Device without local sim > Android / ChromeOS
+ 
 ## Installation
 1. Setup OpenWRT Router and flash firmware: `https://openwrt.org/`
 2. Connect router to internet
