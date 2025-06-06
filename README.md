@@ -12,6 +12,9 @@ A improvised WAN can be used. OpenWRT is Open Source router software offering fo
 
 We document here configuration 1, where uplink is to wireless@SGx or equivalent EAP networks.
 
+## Caveats
+This configuration may not be most optimal ( there are potentially redundant configurations ) and need to be further tailored for your deployment. Understanding of networking and security is required.
+
 ## Generate Credentials
 1. goto: `https://eservice.imda.gov.sg/wirelessSGx/`
 2. Select Device without local sim > Android / ChromeOS
